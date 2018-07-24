@@ -3,6 +3,7 @@
     {
       "name": "connect-jwt",
       "source": "connect-jwt",
+      "icon": "https://jwt.io/img/pic_logo.svg",
       "description": "Json Web Tokens, securely sign tokens containing information and verify tokens that you have signed."
     }
   ]
