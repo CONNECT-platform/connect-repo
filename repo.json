@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "name": "connect-jwt",
+      "source": "connect-jwt",
+      "description": "Json Web Tokens, securely sign tokens containing information and verify tokens that you have signed."
+    }
+  ]
+}
