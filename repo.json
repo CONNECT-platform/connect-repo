@@ -9,7 +9,7 @@
     {
       "name": "connect-firestore",
       "source": "connect-firestore",
-      "icon": "https://firebase.google.com/_static/images/firebase/touchicon-180.png"
+      "icon": "https://firebase.google.com/_static/images/firebase/touchicon-180.png",
       "description": "Google Firestore, a cloud-based nosql database to read and write information easily."
     }
   ]
