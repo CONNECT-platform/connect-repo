@@ -5,6 +5,12 @@
       "source": "connect-jwt",
       "icon": "https://jwt.io/img/pic_logo.svg",
       "description": "Json Web Tokens, securely sign tokens containing information and verify tokens that you have signed."
+    },
+    {
+      "name": "connect-firestore",
+      "source": "connect-firestore",
+      "icon": "https://firebase.google.com/_static/images/firebase/touchicon-180.png"
+      "description": "Google Firestore, a cloud-based nosql database to read and write information easily."
     }
   ]
 }
