@@ -15,7 +15,7 @@
     {
       "name": "connect-mailjet",
       "source": "connect-mailjet",
-      "icon": "https://www.mailjet.com/wp-content/themes/mailjet/mailjet/img/mailjet-logo-cookie.jpg",
+      "icon": "https://s3.amazonaws.com/neverbounce-hosted/images/integrations/square/mailjet.png",
       "description": "Mailjet integration, for easily sending transactional emails."
     }
   ]
