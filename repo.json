@@ -11,6 +11,12 @@
       "source": "connect-firestore",
       "icon": "https://firebase.google.com/_static/images/firebase/touchicon-180.png",
       "description": "Google Firestore, a cloud-based nosql database to read and write information easily."
+    },
+    {
+      "name": "connect-mailjet",
+      "source": "connect-mailjet",
+      "icon": "https://www.mailjet.com/wp-content/themes/mailjet/mailjet/img/mailjet-logo-cookie.jpg",
+      "description": "Mailjet integration, for easily sending transactional emails."
     }
   ]
 }
