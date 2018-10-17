@@ -17,6 +17,12 @@
       "source": "connect-mailjet",
       "icon": "https://s3.amazonaws.com/neverbounce-hosted/images/integrations/square/mailjet.png",
       "description": "Mailjet integration, for easily sending transactional emails."
+    },
+    {
+      "name": "connect-mongodb",
+      "source": "connected-mongodb",
+      "icon": "https://www.klipfolio.com/sites/default/files/integrations/mongo.png",
+      "description": "Mongodb integration, for easily working with database and stuff."
     }
   ]
 }
