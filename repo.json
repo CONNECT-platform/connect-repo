@@ -19,7 +19,7 @@
       "description": "Mailjet integration, for easily sending transactional emails."
     },
     {
-      "name": "connect-mongodb",
+      "name": "connected-mongodb",
       "source": "connected-mongodb",
       "icon": "https://www.klipfolio.com/sites/default/files/integrations/mongo.png",
       "description": "Mongodb integration, for easily working with database and stuff."
