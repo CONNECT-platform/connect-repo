@@ -22,7 +22,13 @@
       "name": "connected-mongodb",
       "source": "connected-mongodb",
       "icon": "https://www.klipfolio.com/sites/default/files/integrations/mongo.png",
-      "description": "Mongodb integration, for easily working with database and stuff."
+      "description": "Mongodb integration. MongoDB is a No-SQL popular database, and allows you save your data easily."
+    },
+    {
+      "name": "connect-platform-redis",
+      "source": "connect-platform-redis",
+      "icon": "https://blog.newrelic.com/wp-content/uploads/redis.png",
+      "description": "Redis integration for caching and in-mem storage."
     }
   ]
 }
