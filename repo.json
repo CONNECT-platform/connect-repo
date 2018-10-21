@@ -27,7 +27,7 @@
     {
       "name": "connect-platform-redis",
       "source": "connect-platform-redis",
-      "icon": "https://blog.newrelic.com/wp-content/uploads/redis.png",
+      "icon": "https://azuqua.com/wp-content/uploads/2018/01/AppLogo_Redis.png",
       "description": "Redis integration for caching and in-mem storage."
     }
   ]
