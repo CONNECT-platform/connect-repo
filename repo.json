@@ -33,13 +33,13 @@
     {
       "name": "connect-docker",
       "source": "connect-docker",
-      "icon": "https://d1q6f0aelx0por.cloudfront.net/icons/docker-edition-azure6.png",
+      "icon": "https://png.icons8.com/color/1600/docker.png",
       "description": "Create and manage docker containers and images with CONNECT."
     },
     {
       "name": "rcnames",
       "source": "rcnames",
-      "icon": "https://png.icons8.com/color/1600/docker.png",
+      "icon": "https://raw.githubusercontent.com/loreanvictor/rnc/master/logo.png",
       "description": "Random Codename Generator"
     }
   ]
