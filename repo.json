@@ -31,6 +31,12 @@
       "description": "Redis integration for caching and in-mem storage."
     },
     {
+      "name": "connect-docker",
+      "source": "connect-docker",
+      "icon": "https://d1q6f0aelx0por.cloudfront.net/icons/docker-edition-azure6.png",
+      "description": "Create and manage docker containers and images with CONNECT."
+    },
+    {
       "name": "rcnames",
       "source": "rcnames",
       "icon": "https://raw.githubusercontent.com/loreanvictor/rnc/master/logo.png",
