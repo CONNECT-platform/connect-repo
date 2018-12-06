@@ -41,6 +41,12 @@
       "source": "rcnames",
       "icon": "https://raw.githubusercontent.com/loreanvictor/rnc/master/logo.png",
       "description": "Random Codename Generator"
+    },
+    {
+      "name": "connect-passwords",
+      "source": "connect-passwords",
+      "icon": "https://raw.githubusercontent.com/loreanvictor/connect-passwords/HEAD/logo.png",
+      "description": "Hashing and matching passwords on CONNECT."
     }
   ]
 }
