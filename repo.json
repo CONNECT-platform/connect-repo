@@ -53,6 +53,6 @@
       "source": "connect-postgres",
       "icon": "https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg",
       "description": "Postgres integration, for easily interacting with a postgres database."
-    },
+    }
   ]
 }
