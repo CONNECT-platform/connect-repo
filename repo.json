@@ -51,7 +51,7 @@
     {
       "name": "connect-postgres",
       "source": "connect-postgres",
-      "icon": "https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png",
       "description": "Postgres integration, for easily interacting with a postgres database."
     }
   ]
