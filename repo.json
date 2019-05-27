@@ -40,7 +40,7 @@
       "name": "rcnames",
       "source": "rcnames",
       "icon": "https://raw.githubusercontent.com/loreanvictor/rnc/master/logo.png",
-      "description": "Random Codename Generator"
+      "description": "Random Codename Generator."
     },
     {
       "name": "connect-passwords",
@@ -53,6 +53,12 @@
       "source": "connect-postgres",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png",
       "description": "Postgres integration, for easily interacting with a postgres database."
+    },
+    {
+      "name": "connect-aws",
+      "source": "connect-aws",
+      "icon": "https://cdn.icon-icons.com/icons2/1488/PNG/512/5363-aws_102581.png",
+      "description": "AWS integration"
     }
   ]
 }
