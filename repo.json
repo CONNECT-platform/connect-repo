@@ -59,6 +59,12 @@
       "source": "connect-aws",
       "icon": "https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png",
       "description": "AWS integration"
+    },
+    {
+      "name": "connect-link-preview",
+      "source": "connect-link-preview",
+      "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/connect-link-preview.png",
+      "description": "Link preview"
     }
   ]
 }
