@@ -65,6 +65,12 @@
       "source": "connect-link-preview",
       "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/connect-link-preview.png",
       "description": "Link preview"
+    },
+    {
+      "name": "connect-elasticsearch",
+      "source": "connect-pltfrm-elasticsearch",
+      "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/Elasticsearch.png",
+      "description": "Elasticsearch"
     }
   ]
 }
