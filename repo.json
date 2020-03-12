@@ -27,7 +27,7 @@
     {
       "name": "connect-platform-redis",
       "source": "connect-platform-redis",
-      "icon": "https://azuqua.com/wp-content/uploads/2018/01/AppLogo_Redis.png",
+      "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/images/redislogo.png",
       "description": "Redis integration for caching and in-mem storage."
     },
     {
