@@ -77,6 +77,13 @@
       "source": "connect-messenger",
       "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/images/fb-messenger.png",
       "description": "Facebook messenger integration"
+    },
+
+    {
+      "name": "connect-sendgrid",
+      "source": "connect-sendgrid",
+      "icon": "https://d-bucket-must.s3.eu-west-3.amazonaws.com/sendgrid.png",
+      "description": "Sendgrid API integration"
     }
   ]
 }
